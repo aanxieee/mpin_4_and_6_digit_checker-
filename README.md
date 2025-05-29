@@ -78,6 +78,4 @@ Contains structured test data
 
 
 Developed as part of a technical assessment . 
-BY AANYA MITTAL - 229310435 
-BTECH CSE HONOURS IN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-applied for data science role @onebanc technologies 
+BY AANYA MITTAL 
