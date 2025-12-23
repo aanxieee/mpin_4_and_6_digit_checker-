@@ -1,6 +1,6 @@
-This project was developed as part of a technical assessment during an internship drive, focusing on security awareness, logic building, and user-centric validation.
+## This project was developed as part of a technical assessment during an internship drive, focusing on security awareness, logic building, and user-centric validation.
 
-MPIN Checker System – 4 Digit AND 6 Digit 
+# MPIN Checker System – 4 Digit AND 6 Digit 
  Objective
 
 To design a secure and user-friendly system that:
